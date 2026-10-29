@@ -38,6 +38,7 @@ More demos and live project status: **[the full dashboard portfolio](https://mar
 ## Guides I publish
 
 - **[Windows 11 Min-Max Guide](https://marksong0917.github.io/win11-optimization-guide/)** — a clean, balanced Windows 11 setup: minimal bloat, maximum performance, step by step.
+- **[Win11 MinMax Toolkit](https://github.com/marksong0917/win11-minmax-toolkit)** — the guide's script companion (open source): safe, reversible Windows 11 tweaks. Restore point first, full undo, never touches Update or Defender.
 - **[Home Server Guide](https://marksong0917.github.io/home-server-guide/)** — turn an old PC into a 24/7 private server that runs your own services around the clock.
 
 ---
