@@ -1,6 +1,6 @@
 # Ze (Mark) Song
 
-**Programmer · Builder — Aurora, Ontario, Canada**
+**Founder & Senior Full-Stack Developer — Aurora, Ontario, Canada**
 
 I build software, websites and servers. About 10 years in the industry, with real products running in production every day.
 
