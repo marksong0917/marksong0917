@@ -35,6 +35,17 @@ More demos and live project status: **[the full dashboard portfolio](https://mar
 
 ---
 
+## Small apps I build (all bilingual EN/中文， all open source)
+
+| App | What it is |
+|---|---|
+| [打字读经典 · Type the Classics](https://marksong0917.github.io/typebook-zh/) | Read Chinese and English classics by typing them, with a voice reading each word aloud |
+| [打字背单词 · TypeWords](https://marksong0917.github.io/typewords/) | Learn English words by typing them — 120 curriculum words, spoken aloud, with a review round |
+| [听写助手 · Dictation](https://marksong0917.github.io/dictation/) | Listen and type what you hear — Chinese poetry and idioms, English sentences |
+| [图片压缩 · Image Compressor](https://marksong0917.github.io/imgcompress/) | Shrink photos entirely in your browser — nothing uploads |
+
+---
+
 ## Guides I publish
 
 - **[Windows 11 Min-Max Guide](https://marksong0917.github.io/win11-optimization-guide/)** — a clean, balanced Windows 11 setup: minimal bloat, maximum performance, step by step.
