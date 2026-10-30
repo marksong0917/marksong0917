@@ -43,6 +43,9 @@ More demos and live project status: **[the full dashboard portfolio](https://mar
 | [打字背单词 · TypeWords](https://marksong0917.github.io/typewords/) | Learn English words by typing them — 120 curriculum words, spoken aloud, with a review round |
 | [听写助手 · Dictation](https://marksong0917.github.io/dictation/) | Listen and type what you hear — Chinese poetry and idioms, English sentences |
 | [图片压缩 · Image Compressor](https://marksong0917.github.io/imgcompress/) | Shrink photos entirely in your browser — nothing uploads |
+| [尺寸换算 · Size Converter](https://marksong0917.github.io/size-converter/) | Inch fractions ↔ mm for the trades, plus weight, area and temperature |
+| [汉字笔顺 · Stroke Order](https://marksong0917.github.io/stroke-order/) | Learn to write Chinese characters stroke by stroke — 96 characters, animated demos, guided tracing |
+| [二维码生成器 · QR Maker](https://marksong0917.github.io/qr-maker/) | Create and download QR codes entirely in your browser |
 
 ---
 
