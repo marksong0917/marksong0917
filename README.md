@@ -46,6 +46,12 @@ More demos and live project status: **[the full dashboard portfolio](https://mar
 | [尺寸换算 · Size Converter](https://marksong0917.github.io/size-converter/) | Inch fractions ↔ mm for the trades, plus weight, area and temperature |
 | [汉字笔顺 · Stroke Order](https://marksong0917.github.io/stroke-order/) | Learn to write Chinese characters stroke by stroke — 96 characters, animated demos, guided tracing |
 | [二维码生成器 · QR Maker](https://marksong0917.github.io/qr-maker/) | Create and download QR codes entirely in your browser |
+| [番茄钟 · Pomodoro](https://marksong0917.github.io/pomodoro/) | A bilingual 25-minute focus timer with breaks and a session counter |
+| [证件照 · ID Photo Maker](https://marksong0917.github.io/id-photo/) | Crop photos to ID/passport sizes at 300 DPI with a print-sheet layout |
+| [成语接龙 · Idiom Solitaire](https://marksong0917.github.io/idiom-chain/) | Chain Chinese idioms head-to-tail against the computer |
+| [大转盘 · Lucky Wheel](https://marksong0917.github.io/lucky-wheel/) | A spin-the-wheel decision maker for picks, draws and choices |
+| [楼梯计算 · Stair Calculator](https://marksong0917.github.io/stair-calculator/) | Risers, treads and stringer length with comfort-rule checks |
+| [倒数日 · Countdown Days](https://marksong0917.github.io/countdown/) | Countdown cards for anniversaries, birthdays and deadlines |
 
 ---
 
