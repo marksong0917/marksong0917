@@ -12,11 +12,11 @@ I build software, websites and servers. About 10 years in the industry, with rea
 
 ## Foxuma — No. 1
 
-My flagship product. **Foxuma** is a business platform built for cabinet, closet and millwork shops: projects, orders, invoicing, payroll hours, inventory, and Fox — an AI assistant that answers from the shop's own records. Your data stays in Canada, on Canadian servers.
+My flagship product. **Foxuma** is a business platform built for cabinet, closet and millwork shops: projects, orders, invoicing, payroll hours, inventory, and Fox — an office assistant that answers from the shop's own records. Your data stays in Canada, on Canadian servers.
 
 It runs a real shop's daily work today — not a prototype.
 
-**[foxuma.com](https://foxuma.com)** · [Try the live demo](https://marksong0917.github.io/demo/) · [Read the case study](https://marksong0917.github.io/case-study/)
+**[foxuma.com](https://foxuma.com)** · [Try it free for 7 days](https://foxuma.com) · [Read the case study](https://marksong0917.github.io/case-study/)
 
 ---
 
