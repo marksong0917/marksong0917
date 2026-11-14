@@ -4,6 +4,8 @@
 
 I build software, websites and servers. About 10 years in the industry, with real products running in production every day.
 
+我做软件、网站和服务器，从业大约 10 年，做的产品每天都在真实环境里运行。我的主力产品是 Foxuma：一家小作坊平时靠纸质单据、电子表格和聊天群管生意，Foxuma 用一套系统把这些全换掉，项目、订单、开票、工时、库存都在里面，还有一个照着店里记录答话的办公助手。数据存在加拿大。
+
 [![Mark Song — portfolio](https://marksong0917.github.io/og.png)](https://marksong0917.github.io/)
 
 🟢 **Available for projects** — email: marksong0000@gmail.com · Portfolio: [marksong0917.github.io](https://marksong0917.github.io/)
