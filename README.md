@@ -12,7 +12,7 @@ I build software, websites and servers. About 10 years in the industry, with rea
 
 ## Foxuma — No. 1
 
-My flagship product. **Foxuma** is a business platform built for cabinet, closet and millwork shops: projects, orders, invoicing, payroll hours, inventory, and Fox — an office assistant that answers from the shop's own records. Your data stays in Canada, on Canadian servers.
+My flagship product. A small shop usually runs on paper forms, spreadsheets and a group chat. **Foxuma** is the one system that replaces that pile — a business platform built for cabinet, closet and millwork shops: projects, orders, invoicing, payroll hours, inventory, and Fox — an office assistant that answers from the shop's own records. Your data stays in Canada, on Canadian servers.
 
 It runs a real shop's daily work today — not a prototype.
 
@@ -35,7 +35,7 @@ More demos and live project status: **[the full dashboard portfolio](https://mar
 
 ---
 
-## Small apps I build (all bilingual EN/中文， all open source)
+## Small apps I build (all bilingual EN/中文, all open source)
 
 | App | What it is |
 |---|---|
@@ -58,7 +58,7 @@ More demos and live project status: **[the full dashboard portfolio](https://mar
 ## Guides I publish
 
 - **[Windows 11 Min-Max Guide](https://marksong0917.github.io/win11-optimization-guide/)** — a clean, balanced Windows 11 setup: minimal bloat, maximum performance, step by step.
-- **[Win11 MinMax Toolkit](https://github.com/marksong0917/win11-minmax-toolkit)** — the guide's script companion (open source): safe, reversible Windows 11 tweaks. Restore point first, full undo, never touches Update or Defender.
+- **[Win Setup Kit](https://github.com/marksong0917/win-setup-kit)** — the guide's one-click companion (open source): restore point first, every change verified after it runs and reversible, dry-run by default. It never touches Windows Update or Defender.
 - **[Home Server Guide](https://marksong0917.github.io/home-server-guide/)** — turn an old PC into a 24/7 private server that runs your own services around the clock.
 
 ---
